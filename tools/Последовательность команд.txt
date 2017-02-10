@@ -1,0 +1,6 @@
+chcp 1251
+oscript ./tools/onescript/BuildScripts/ClearDir.os %BasePath%
+oscript ./tools/onescript/BuildScripts/CopyFiles.os %BasePath% %EPF%
+oscript ./tools/onescript/BuildScripts/BuildConf.os %BasePath% %EPF% %Synonym%
+oscript ./tools/onescript/BuildScripts/StartCheck.os %BaseACC% %Synonym% %GIT_AUTHOR_NAME%
+oscript ./tools/onescript/BuildScripts/CreateReports.os %BaseACC% %Synonym% %EPF%
