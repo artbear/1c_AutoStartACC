@@ -1,0 +1,9 @@
+﻿3f8cf3ec-6098-49c7-8e43-27faf25048df-->und\3f8cf3ec-6098-49c7-8e43-27faf25048df
+3f8cf3ec-6098-49c7-8e43-27faf25048df.0-->Form\Форма
+9ced4526-4855-4301-95ce-daf71bad608d.0\info-->und\9ced4526-4855-4301-95ce-daf71bad608d.0\info
+9ced4526-4855-4301-95ce-daf71bad608d.0\text-->ObjectModule.bsl
+ba4f69f8-9ab2-4c3b-9caa-5382fc70838a-->und\ba4f69f8-9ab2-4c3b-9caa-5382fc70838a
+copyinfo-->und\copyinfo
+root-->und\root
+version-->und\version
+versions-->und\versions
